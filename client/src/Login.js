@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { login } from './auth';
 
 class Login extends Component {
-  state = {name: '', password: '', error: false};
+  state = {name: 'alice', password: 'alice123', error: false};
 
   handleChange(event) {
     const {name, value} = event.target;

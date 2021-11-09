@@ -3,5 +3,15 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "BkONCKBDt",
+    "from": "alice",
+    "text": "рш"
+  },
+  {
+    "id": "r13gyqSwY",
+    "from": "alice",
+    "text": "test"
   }
 ]
